@@ -1,0 +1,196 @@
+{
+  "users": [
+    {
+      "name": "Marcial Igme",
+      "email": "igmemarcial@gmail.com",
+      "password": "igme",
+      "id": "e330000b-cadd-4a35-911f-c08d8eb4520d"
+    },
+    {
+      "name": "NuevoNombre2",
+      "email": "nuevoemail2@c.com",
+      "password": "nuevacontraseña2",
+      "id": "beb63de4-60e3-49a9-8c0d-fcb20430cb50"
+    },
+    {
+      "name": "NuevoNombre3",
+      "email": "nuevoemail3@gmail.com",
+      "password": "nuevacontraseña3",
+      "id": "d336f49d-c9f2-49ff-91fe-804b38fe4694"
+    },
+    {
+      "name": "NuevoNombre4",
+      "email": "nuevoemail4@gmail.com",
+      "password": "nuevacontraseña4",
+      "id": "cdbd2176-5eed-4e5e-871b-8b9c02d74cb0"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "commitment"
+    },
+    {
+      "id": 2,
+      "name": "matrimonial"
+    },
+    {
+      "id": 3,
+      "name": "lonely"
+    }
+  ],
+  "productos": [
+    {
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/09/03/14/39/teddy-2710522_1280.png",
+      "name": "Juguetes  de Gatos",
+      "price": "$500.00",
+      "categoria": "matrimonial",
+      "description": "Juguete especial para gatos,  la diversion esta en tus manos.",
+      "id": "e0ea324b-356a-4423-a619-09338941354b"
+    },
+    {
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/10/11/14/58/teddy-2841279_640.png",
+      "name": "Anillo de Compromiso Clásico",
+      "price": "$450.00",
+      "categoria": "commitment",
+      "description": "Descripción del anillo de compromiso clásico.",
+      "id": "9eaa1a1e-8628-4cbf-a3a3-6d2d0b3e1c9e"
+    },
+    {
+      "imageUrl": "https://cdn.pixabay.com/photo/2015/12/09/17/52/teddy-bear-1085162_640.png",
+      "name": "Anillo Solitario de Diamante",
+      "price": "$600.00",
+      "categoria": "lonely",
+      "description": "Descripción del anillo solitario de diamante.",
+      "id": "cfc5e01d-20fb-4a41-8dd2-0040dcf8826b"
+    },
+    {
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/01/13/17/05/toys-1138479_640.png",
+      "name": "Anillo Matrimonial de Oro Blanco",
+      "price": "$700.00",
+      "categoria": "matrimonial",
+      "description": "Descripción del anillo matrimonial de oro blanco.",
+      "id": "6ae6f0b1-c194-4c7c-a08f-7b6460d3ff88"
+    },
+    {
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/08/11/22/48/different-nationalities-2633028_640.png",
+      "name": "Anillo Matrimonial de Plata",
+      "price": "$450.00",
+      "categoria": "matrimonial",
+      "description": "Descripción del anillo matrimonial de plata.",
+      "id": "0515aaa6-6324-49b9-99a9-ebc168160964"
+    },
+    {
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/01/02/16/00/star-wars-1118389_640.png",
+      "name": "Anillo de Perlas",
+      "price": "$549.00",
+      "categoria": "commitment",
+      "description": "Anillo elegante con perlas incrustadas.",
+      "id": "d77d874c-8778-42f1-8a02-d8e6a705cfc5"
+    },
+    {
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/07/21/23/20/duck-2527358_640.png",
+      "name": "Anillos de Boda",
+      "price": "$289.00",
+      "categoria": "matrimonial",
+      "description": "Conjunto de anillos de boda elegantes y clásicos.",
+      "id": "bf69cef6-8af8-44b7-8cdb-bfa30b8d1b5d"
+    },
+    {
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/07/21/23/20/kermit-2527357_640.png",
+      "name": "Anillo con Ornamento",
+      "price": "$69.99",
+      "categoria": "commitment",
+      "description": "Anillo decorado con un hermoso ornamento.",
+      "id": "4174188c-b724-4b27-9951-2e21de3b5506"
+    },
+    {
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/07/24/23/37/kermit-2536436_640.png",
+      "name": "Anillo del Mandaloriano",
+      "price": "$80.99",
+      "categoria": "commitment",
+      "description": "Un anillo inspirado en el Mandaloriano y Baby Yoda.",
+      "id": "3eed7026-ee93-46ac-a9bf-745dd3747748"
+    },
+    {
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/01/13/17/09/ninja-1138493_640.png",
+      "name": "Anillo de Oro con Ojo",
+      "price": "$54.00",
+      "categoria": "lonely",
+      "description": "Anillo de oro con un diseño único que incluye un ojo en la joya.",
+      "id": "cb730e61-97f8-4fe8-aabf-4c3db553cc0c"
+    },
+    {
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/09/25/15/05/figure-2785405_640.png",
+      "name": "Anillo de Compromiso Starbucks",
+      "price": "$5.00",
+      "categoria": "commitment",
+      "description": "Un anillo de compromiso especial con el logo de Starbucks.",
+      "id": "23ba121e-1cb8-4d71-b6f3-9e6d52b20470"
+    },
+    {
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/08/28/00/18/plush-toys-2688105_640.png",
+      "name": "Estación de Carga Joy-Con Insignia™",
+      "price": "$33.00",
+      "categoria": "matrimonial",
+      "description": "Estación de carga Joy-Con Insignia™ para Nintendo Switch - Negra\nModelo:NS-GNSJCCS18SKU:5894301",
+      "id": "529959de-570d-4fdf-b0ee-e13733b4852d"
+    },
+    {
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/08/11/01/03/kermit-2629335_640.png",
+      "name": "Auriculares de Gaming con Luces LED y Sonido Estéreo",
+      "price": "$10.00",
+      "categoria": "lonely",
+      "description": "Auriculares de Gaming 3.5mm con micrófono y luces LED, sonido estéreo envolvente para PC, Xbox One y PS4\n\nEspecificaciones:\n\nDiámetro del altavoz: 40mm\nConector: 3.5mm\nImpedancia del controlador: 32 ohmios\nSensibilidad: 102dB±3dB\nRespuesta de frecuencia: 20Hz-20KHz\nDiámetro del micrófono: 6.0 * 5.0mm\nDirectividad del micrófono: omnidireccional\nConector: micrófono de 3.5mm y conector para auriculares + interfaz USB\nSensibilidad del micrófono: -36±3dB\nLongitud del cable: aproximadamente 2.2 metros\nVoltaje de trabajo de LED: DC5V±5%\nCorriente de trabajo: ≤100mA\nPeso de los auriculares: 12.8 oz",
+      "id": "2a81d270-76a6-418c-b33f-a1b05136f831"
+    },
+    {
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/05/05/14/55/elephant-2287292_640.png",
+      "name": "Tapete de Ratón para Computadora de Gaming",
+      "price": "$12.00",
+      "categoria": "commitment",
+      "description": "Tapete de ratón para computadora de gaming con mapa del mundo, superficie antideslizante de goma.\n\nCaracterísticas:\n1. Bordes cosidos duraderos que evitan el desgaste.\n2. Superficie suave y densa que permite un control suave del ratón.\n3. Base de goma antideslizante que sujeta firmemente el escritorio.\n4. Diseño lavable que evita la decoloración.\n5. Ideal para todo tipo de ratones, láser y ópticos.\n\nPaquete incluye: 1 unidad.\n\nNota:\n1. Puede haber ligeras diferencias de color debido a la iluminación.\n2. Permite diferencias de 1-5 mm debido a la medición manual.",
+      "id": "0e4e5716-a86c-4940-a13d-116c87aa393a"
+    },
+    {
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/01/13/17/06/toys-1138478_640.png",
+      "name": "COUGAR 700M EVO Esports 16000 DPI ratón óptico",
+      "price": "$90.00",
+      "categoria": "lonely",
+      "description": "COUGAR 700M EVO Esports 16000 DPI ratón óptico para juegos con reposamanos ajustable, pesos y botones totalmente configurables",
+      "id": "0891f7aa-853e-49cc-a97c-f8a8e97e1517"
+    },
+    {
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/07/26/16/35/duckling-2542277_640.png",
+      "name": "COUGAR DUALBLADER Ratón para juegos",
+      "price": "$80.00",
+      "categoria": "lonely",
+      "description": "Diseño de dinastruta evolutiva: el nuevo ratón de doble blader icónico para juegos cuenta con un soporte de palma ergonómico y ajustable totalmente personalizable. Vale la pena mencionar que DUALBLADER está equipado con el nuevo concepto evolutivo: Dynasrut diseño (pendiente de patente). Proporciona dos despliegues (agarre de garra/palma) a través del ajuste de altura para que los jugadores elijan. Esto hace que los jugadores puedan cambiar diferentes estilos mientras juegan diferentes juegos.\nComponentes personalizados: DUALBLADER también proporciona dos juegos de agarres laterales intercambiables (grande/pequeño), cuatro botones desmontables y dos tamaños de reposamanos. Los jugadores pueden utilizar esos componentes para crear el mejor ajuste que necesitan o ajustan. Además, COUGAR soporta los archivos 3D de código abierto de los agarres laterales y botones de DUALBLADER, DIYer podría descargar estos archivos 3D y rediseñarlos para hacer una forma única por sí sola. Ofrece más posibilidades para dualblader y hace que sea divertido con el bricolaje",
+      "id": "bc872b45-f582-4cd9-82b4-9feb69d79406"
+    },
+    {
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/07/31/23/45/minion-2562071_640.png",
+      "name": "Soporte para monitor y portátil ",
+      "price": "$60.00",
+      "categoria": "lonely",
+      "description": "Soporte para monitor y portátil con bandeja para portátil de 13 a 27 pulgadas, soporte de escritorio totalmente ajustable para portátil de hasta 17 pulgadas, peso de hasta 22 libras, extensión con abrazadera y base de montaje con ojal",
+      "id": "20a7432e-271d-4187-b56a-a64880503002"
+    },
+    {
+      "imageUrl": "https://cdn.pixabay.com/photo/2020/02/06/08/00/warbot-4823282_640.png",
+      "name": "Alfombrilla de mouse LED RGB para juegos,",
+      "price": "$10.00",
+      "categoria": "matrimonial",
+      "description": "EUREKA ERGONOMIC Alfombrilla de mouse LED RGB para juegos, XXL, grande, extendida, para oficina, computadora, computadora, computadora, computadora, computadora, computadora, computadora, computadora, computadora, computadora, computadora, alfombrilla de mouse con base de goma antideslizante, negro y verde MARRS, 31.5 x 11.8 pulgadas",
+      "id": "102e2a6e-686b-4c63-a922-49a0d000e6f3"
+    },
+    {
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/09/08/16/56/auto-2729384_640.png",
+      "name": "Alfombrilla de ratón para juegos, tamaño XXL,",
+      "price": "$10.00",
+      "categoria": "matrimonial",
+      "description": "Tamaño grande: el grosor de la alfombrilla de ratón es de 0.118 in para mejorar la comodidad de la muñeca. El tamaño de 31.5 x 11.8 pulgadas se adapta perfectamente a tu escritorio. Esta gran alfombrilla de ratón para juegos se adapta perfectamente a tu teclado y ratón, y también hay espacio adicional para periféricos como teléfonos y tabletas.\nBase de goma antideslizante: sombreado denso y base de goma antideslizante que proporcionan un agarre pesado que evita el deslizamiento o el movimiento de las alfombrillas de mouse, te ofrece un funcionamiento estable y te permite mover libremente tu mouse sin interrupciones, disponible para cualquier superficie plana y dura de mesa.",
+      "id": "41c776dd-ed2d-4ecd-95d8-4d33ef0c13ac"
+    }
+  ]
+}

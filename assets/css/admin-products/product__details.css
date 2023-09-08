@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
+
+.details_container {
+  width: 80%;
+  max-width: 1200px;
+  margin: auto;
+  font-family: "Muli", sans-serif;
+}
+
+.details-product {
+  display: flex;
+  flex-flow: row nowrap;
+  margin: 3rem auto;
+  padding: 5rem;
+  gap: 4rem;
+}
+.details-product .img_container {
+  width: auto;
+  height: auto;
+}
+
+.details-img {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 3rem -1rem rgba(0, 0, 0, 0.5);
+
+  box-sizing: content-box;
+  max-width: 550px;
+  height: 46.2vw;
+
+  object-fit: contain;
+
+  display: inline-block;
+}
+
+.details-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.details-name {
+  font-family: var(--fuente_principal);
+  font-style: normal;
+  font-weight: 500;
+  font-weight: 600;
+  line-height: 1.2em;
+  font-size: 36px;
+}
+
+.details-price {
+  /* margin: 1rem auto; */
+
+  font-family: var(--fuente_principal);
+  color: var(--color_fondo-o-letra_botones-2);
+
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: Inter, sans-serif;
+  font-size: 26px;
+  font-weight: 500;
+  line-height: 1.2em;
+}
+
+.details-descripcion {
+  color: #747281;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1.5em;
+}
+
+.hidden {
+  display: none !important;
+}
+
+@media screen and (max-width: 360px) {
+  .product__details_container {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+.details-title {
+  font-size: 30px;
+}
+@media (max-width: 850px) {
+}
+@media screen and (max-width: 768px) {
+  .details-img {
+    max-width: 300px;
+    height: auto;
+  }
+  .details-product {
+    flex-direction: column;
+    padding: 2rem;
+    justify-content: center;
+    align-items: center;
+  }
+}
